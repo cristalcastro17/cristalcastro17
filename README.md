@@ -2,7 +2,7 @@
   <img src="https://i.redd.it/lea6e63uxdod1.gif](https://i.pinimg.com/originals/d6/7b/af/d67baffb519cab66bf603e565d9298f1.gif" width="250"/>
 </p>
 
-# 👋 Hola, soy Cristal Castro
+# 👋 Hola, mi nombre es Cristal Castro
 
 💻 Estudiante de informática
 📍 República Dominicana
@@ -30,12 +30,10 @@ Me gusta desarrollar aplicaciones de escritorio en C# y trabajar con bases de da
 
 ---
 
-## 🚀 Tecnologías y Herramientas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
