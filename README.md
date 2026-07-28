@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner">
+  <img src="./banner.png" width="100%" alt="Banner">
 </p>
 
 # 👋 Hola, mi nombre es Cristal Castro
