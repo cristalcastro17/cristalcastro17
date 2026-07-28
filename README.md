@@ -3,8 +3,8 @@
 </p>
 
 # 👋 Hola, mi nombre es Cristal Stephanie Castro Clarke 
-💻 Estudiante de programación | 16 años  
-🏫 5to D1  
+💻 Estudiante de programación | 17 años  
+🏫 6to D1  
 From Dominican Republic  
 
 ---
