@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.redd.it/lea6e63uxdod1.gif](https://i.pinimg.com/originals/d6/7b/af/d67baffb519cab66bf603e565d9298f1.gif" width="250"/>
+  <img src="./assets/banner.png" width="100%" alt="Banner">
 </p>
 
 # 👋 Hola, mi nombre es Cristal Castro
