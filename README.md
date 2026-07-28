@@ -31,6 +31,7 @@ Me gusta desarrollar aplicaciones de escritorio en C# y trabajar con bases de da
 
 ## 📂 Proyectos
 
+- 📚 Sistema Escolar
 - 📚 Sistema de Biblioteca
 - 🏠 Sistema de Cabañas
 - 🌐 Páginas web con HTML y CSS
